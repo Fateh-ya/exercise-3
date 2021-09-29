@@ -1,1 +1,1 @@
-clear && gcc main.c -o main && ./main
+clear; gcc main.c -o main; ./main
